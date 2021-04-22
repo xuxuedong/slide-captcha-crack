@@ -12,15 +12,12 @@ a basic utility that can automate slider (from geetest), but speed is a little s
 4.use pillow calculate the space  
 5.simulate the human track to drag and drop the slider
 
-0x03 项目地址  
-https://github.com/ybdt/slide-captcha-crack
-
-0x04 注意事项  
+0x03 注意事项  
 this use coordinate to locate slide image, so adjust coordinate to fit you  
 see the code for details, if you have problem, please open the issue  
 program is still effective till 2018/11/30 11:00, to prevent illegal use, i will hide my target url
 
-0x05 参考链接  
+0x04 参考链接  
 http://www.aneasystone.com/archives/2018/03/python-selenium-geetest-crack.html  
 https://blog.csdn.net/chief_victo/article/details/81449341  
 https://blog.samuelhavefun.tk/2018/06/20/Bypass-geetest/  
